@@ -3,10 +3,13 @@
 <html>
 
 <head></head>
+    <title> my website </title> 
 <body>
-    <title> my website </title>
-    hi ! im blikey a begineer coder
-
+<h1>hi im blikey a begineer coder</h1>
+<h2>hi im blikey a begineer coder</h2>
+<h3>hi im blikey a begineer coder</h3>
+<h4>hi im blikey a begineer coder</h4>
+   
     
 </body>
 
